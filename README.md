@@ -21,6 +21,8 @@
 
   ## Usage
 
+  [Instructional video for application usage](https://youtu.be/wP15ASNPvhw)
+
   ![Screenshot of application](./images/readme-gen-screenshot.png)
 
   ## Contributors
