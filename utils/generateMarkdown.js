@@ -41,33 +41,34 @@ function generateMarkdown(data) {
 
   * [Installation](#installation)
   * [Usage](#usage)
-  ${renderLicenseLink(data.license)}
-  * [Contributing](#contributing)
+  * ${renderLicenseLink(data.license)}
+  * [Contributors](#contributors)
   * [Questions](#questions)
   
   ## Installation
 
-  To install dependencies run the following command
   ${data.installation}
 
   ## Usage
 
   ${data.usage}
-  ${renderLicenseSection(data.license)}
 
-  ## Contributing
+  ## Contributors
 
-  ${data.contributions}
+  ${data.contributors}
 
   ## Test
+
+  Run the following commad to run tests on your application:
 
   ${data.test}
 
   ## Questions
 
-  If there are any further questions, please feel free to reaach out to ${data.name} by email or GitHub. \n\n
-  - ${data.email} \n
-  - [${data.github}](https://github.com/${data.github})
+  If there are any further questions, please feel free to reach out to me. 
+
+  - Email: ${data.email}
+  - GitHub: [${data.github}](https://github.com/${data.github})
 `;
 }
 

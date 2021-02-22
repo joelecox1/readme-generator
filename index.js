@@ -99,7 +99,7 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'contributions',
+    name: 'contributors',
     message: 'Who contributed to this project?',
     validate: nameInput => {
       if (nameInput) {
