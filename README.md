@@ -3,13 +3,13 @@
   
   ## Description
   
-  This is a README Generator which one executes through prompts in the command line. Any employer will take a developer all the more seriously if they have a professional README included with their project. This application will take that burden off your hands. Simply type your answers in the prompt, and watch the magic happen. This application was created using JavaScript, Node.js, and npm’s Inquirer.
+  This is a README Generator which one executes through prompts in the command line. Any employer will take a developer all the more seriously if they have a professional README in included with their project. This application will take that burden off your hands. Simply type your answers in the prompt, and watch the magic happen. This application was created using JavaScript, Node.js, and npm’s Inquirer.
 
   ## Table of Contents
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * ![Github License](https://img.shields.io/badge/license-MIT-green)
+  * [![Github License](https://img.shields.io/badge/license-MIT-green)](#license)
   * [Contributors](#contributors)
   * [Questions](#questions)
   
@@ -28,6 +28,11 @@
   ## Contributors
 
   Joel Cox
+
+  ## License
+      
+        This project is licensed under the MIT License.
+      
 
   ## Test
 
